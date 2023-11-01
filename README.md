@@ -25,9 +25,10 @@
 
 
 
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsingh13275&" alt="manishsingh13275" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=manishsingh13275&show_icons=true&locale=en" alt="manishsingh13275" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishsingh13275&show_icons=true&locale=en&layout=compact" alt="manishsingh13275" />
+<p >
+<img align="left" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=manishsingh13275&" alt="manishsingh13275" />
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=manishsingh13275&show_icons=true&locale=en" alt="manishsingh13275" />
+<img align="left" width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishsingh13275&show_icons=true&locale=en&layout=compact" alt="manishsingh13275" />
 
 </p>
 
