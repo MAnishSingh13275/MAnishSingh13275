@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manishsingh13275@gmail.com**
 
-- ⚡ Fun fact **I am a shayar by hobby**
+- ⚡ Fun fact **I am a shayar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
