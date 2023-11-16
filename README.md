@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Mern Stack | Frontend | UI/UX**
 
-- 📫 How to reach me **manishsingh13275@gmail.com**
+- 📫 How to reach me ?
+**manishsingh13275@gmail.com**
 
 - ⚡ Fun fact **I am a shayar**
 
