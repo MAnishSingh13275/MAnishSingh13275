@@ -124,7 +124,7 @@
 ---
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/18F7IMY1BxC7-kzWDip_XmZPTRtfX4Yi9/view?usp=sharing" target="_blank"><b>📄 Resume (PDF)</b></a> •
+  <a href="https://drive.google.com/file/d/1nN9mZVqOB9UySZdr3InLN520NXr_LwfX/view?usp=sharing" target="_blank"><b>📄 Resume (PDF)</b></a> •
   <a href="https://manishsingh.me" target="_blank"><b>🌐 Portfolio</b></a> •
   <a href="mailto:manishsingh13275@gmail.com"><b>✉️ Email</b></a> •
   <a href="https://www.linkedin.com/in/singh-manish1/" target="_blank"><b>🔗 LinkedIn</b></a>
