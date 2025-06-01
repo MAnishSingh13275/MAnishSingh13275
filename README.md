@@ -1,7 +1,7 @@
-<!-- README.md for Manish Singh | Founder @ Onezy -->
+<!-- README.md for Manish Singh | Full-Stack Developer -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Manish+Singh!;Founder+of+Onezy+%E2%80%93+One+Easy+Solution+for+All+Tech+Problems;Full-Stack+Engineer+%7C+React+%7C+Next.js+%7C+Node.js;Let%E2%80%99s+build+the+future+of+tech+🚀" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Manish+Singh!;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;Building+clean+and+scalable+web+products;Let%E2%80%99s+build+the+future+of+tech+🚀" alt="Typing Intro" />
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@
     <td align="left" valign="middle">
       <h2>👋 Hi, I’m <strong>Manish Singh</strong></h2>
       <ul>
-        <li>🛠️ <b>Technical Founder</b> & Builder.</li>
-        <li>🚀 <b>Co-founder @ <a href="https://onezy.in" target="_blank">Onezy</a></b> – One Easy Solution for All Tech Problems.</li>
-        <li>📦 <b>First Product:</b> <a href="https://repset-mu.vercel.app" target="_blank"><b>Repset</b></a> – modern gym management SaaS, built under Onezy.</li>
-        <li>🌱 Passionate about scalable SaaS, automation, and helping startups level up their tech.</li>
+        <li>🛠️ <b>Full-Stack Developer</b> & Builder.</li>
+        <li>🚀 Passionate about scalable SaaS, clean UI, and developer productivity.</li>
+        <li>📦 <b>Key Projects:</b> <a href="https://repset-mu.vercel.app" target="_blank"><b>Repset</b></a> (modern gym management SaaS), <a href="https://gurukool.tech" target="_blank"><b>Gurukool</b></a> (AI-powered learning platform).</li>
+        <li>🌱 Exploring automation, API design, and UI/UX excellence.</li>
       </ul>
     </td>
     <td align="center" width="185">
@@ -45,19 +45,20 @@
 <br>
 <ul>
   <li>
-    <b>Founder & Engineer:</b> Building Onezy to make technology simple for startups & businesses.
+    <b>Full-Stack Engineer:</b> Focused on building robust, maintainable, and delightful web experiences.
   </li>
   <li>
-    <b>What is Onezy?</b> Your one easy tech partner – we build, automate, and accelerate digital products so you can focus on your vision.
+    <b>Skills:</b> React.js · Next.js · Node.js · TypeScript · Prisma · PostgreSQL · Tailwind · Docker · AWS
   </li>
   <li>
-    <b>Product Spotlight:</b> <b>Repset</b> – Next-gen gym SaaS, multi-tenant, seamless onboarding, first of many Onezy solutions.
+    <b>Project Highlights:</b> 
+    <ul>
+      <li><b>Repset</b> – Next-gen gym SaaS (multi-tenant, onboarding, clean UI)</li>
+      <li><b>Gurukool</b> – AI-powered study and notes platform for students</li>
+    </ul>
   </li>
   <li>
-    <b>Skills:</b> React.js · Next.js · Node.js · TypeScript · Prisma · PostgreSQL · Tailwind · Docker · AWS · Product Strategy
-  </li>
-  <li>
-    <b>Other Projects:</b> Gurukool (AI-powered learning), VitrusAI (AI multimedia tools)
+    <b>Other Projects:</b> Real-time chat apps, open-source UI, and performance tools.
   </li>
 </ul>
 </details>
@@ -90,7 +91,7 @@
     <img src="https://raw.githubusercontent.com/MAnishSingh13275/README-assets/main/repset-screenshot.png" alt="Repset Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
   </a>
   <br>
-  <b><a href="https://repset-mu.vercel.app" target="_blank">Repset</a></b> – The all-in-one gym management platform (Onezy’s first product)
+  <b><a href="https://repset-mu.vercel.app" target="_blank">Repset</a></b> – All-in-one gym management platform
 </p>
 
 <p align="center">
@@ -99,14 +100,6 @@
   </a>
   <br>
   <b><a href="https://gurukool.tech" target="_blank">Gurukool</a></b> – AI-powered learning platform
-</p>
-
-<p align="center">
-  <a href="https://vitrusai.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/MAnishSingh13275/README-assets/main/vitrusai-screenshot.png" alt="VitrusAI Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
-  </a>
-  <br>
-  <b><a href="https://vitrusai.com" target="_blank">VitrusAI</a></b> – AI tools for PDFs, Images, Video, and Audio
 </p>
 
 ---
@@ -122,10 +115,10 @@
 
 <h3 align="center">📌 What I'm Up To</h3>
 <ul>
-  <li>🚀 Building Onezy into a hub for startup tech innovation.</li>
-  <li>⚡ Releasing and scaling <b>Repset</b> (first of many products).</li>
-  <li>💡 Exploring new automation and SaaS ideas under the Onezy umbrella.</li>
-  <li>📚 Leveling up in DevOps (Docker + AWS + K8s), Next.js advanced patterns, product leadership.</li>
+  <li>🚀 Building, scaling, and shipping modern SaaS products.</li>
+  <li>⚡ Improving UI performance, accessibility, and user experience.</li>
+  <li>💡 Exploring new frontend patterns, TypeScript, and cloud deployment.</li>
+  <li>📚 Leveling up in DevOps (Docker + AWS + K8s) and system design.</li>
 </ul>
 
 ---
@@ -152,5 +145,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+Let%E2%80%99s+build+something+game-changing." alt="Thanks for visiting" />
   <br>
-  <i>Made with ❤️ by Manish Singh | Founder, Onezy</i>
+  <i>Made with ❤️ by Manish Singh</i>
 </p>
