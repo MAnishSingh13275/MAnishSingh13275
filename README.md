@@ -88,7 +88,7 @@
 
 <p align="center">
   <a href="https://repset-mu.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/MAnishSingh13275/README-assets/main/repset-screenshot.png" alt="Repset Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
+    <img src="./assets/Repset.png" alt="Repset Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
   </a>
   <br>
   <b><a href="https://repset-mu.vercel.app" target="_blank">Repset</a></b> – All-in-one gym management platform
@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://gurukool.tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/MAnishSingh13275/README-assets/main/gurukool-screenshot.png" alt="Gurukool Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
+    <img src="./assets/Gurukool.png" alt="Gurukool Screenshot" width="70%" style="border-radius: 12px; box-shadow: 0 4px 18px rgba(0,0,0,0.08);" />
   </a>
   <br>
   <b><a href="https://gurukool.tech" target="_blank">Gurukool</a></b> – AI-powered learning platform
