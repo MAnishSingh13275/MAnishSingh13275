@@ -143,7 +143,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+Let%E2%80%99s+build+something+game-changing." alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=1200&lines=Thanks+for+stopping+by!+Let%E2%80%99s+build+something+game-changing." alt="Thanks for visiting" />
   <br>
   <i>Made with ❤️ by Manish Singh</i>
 </p>
