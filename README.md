@@ -75,9 +75,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAnishSingh13275&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MAnishSingh13275&theme=radical&hide_border=true" height="140"/>
 </p>
 
